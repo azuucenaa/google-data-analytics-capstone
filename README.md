@@ -66,7 +66,7 @@ The Nasdaq-100 achieved a higher cumulative return during the analyzed period.
 
 The normalized performance comparison also shows that the Nasdaq-100 remained above the S&P 500 throughout most of the period and finished with a substantially higher cumulative growth level.
 
-![Performance Analysis](./capturas%20de%20pantalla/performance-analysis.png)
+![Performance Analysis](./screenshots/performance-analysis.png)
 
 ## Risk Analysis
 
@@ -74,13 +74,13 @@ The Nasdaq-100 presented higher daily volatility than the S&P 500, with 1.42% co
 
 Its Maximum Drawdown was also slightly deeper at -35.56%, compared with -33.92% for the S&P 500.
 
-![Risk Analysis](./capturas%20de%20pantalla/risk-analysis.png)
+![Risk Analysis](./screenshots/risk-analysis.png)
 
 ## Correlation
 
 The correlation between the daily returns of both indices was 0.9346, indicating that their daily movements were highly related during the analyzed period.
 
-![Financial Market Analysis Dashboard](./capturas%20de%20pantalla/dashboard-overview.png)
+![Financial Market Analysis Dashboard](./screenshots/dashboard-overview.png)
 
 ## Key Findings
 
