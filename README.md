@@ -3,8 +3,7 @@
 
 Comparative analysis of the historical performance and risk of the Nasdaq-100 and S&P 500 between 2016 and 2025, developed in Power BI and supported by Excel-based data preparation and analysis.
 
-![Financial Market Analysis Dashboard](./capturas%20de%20pantalla/dashboard-overview.png)
-
+![Financial Market Analysis Dashboard](./screenshots/dashboard-overview.png)
 ## Business Question
 
 Did the higher historical return of the Nasdaq-100 between 2016 and 2025 come with a significantly higher level of risk compared with the S&P 500?
